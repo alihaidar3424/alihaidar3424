@@ -37,7 +37,6 @@
   <br>
   
   <a href="https://www.linkedin.com/in/alihaidar3424" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/alikhan3424" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
   <b>🔥 Github Streaks</b>
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alihaidar3424&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="alihaidar3424" /></p>
